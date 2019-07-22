@@ -1,0 +1,22 @@
+version: '3.4'
+
+services:
+  apigateway:
+    image: dockerimgdemo/apigateway
+    build:
+      context: .
+      dockerfile: APIGateway/Dockerfile
+
+  loginapiservice:
+    image: dockerimgdemo/loginapiservice
+    build:
+      context: .
+      dockerfile: LoginAPIService/Dockerfile
+
+
+  eformprocessingservice:
+    image: dockerimgdemo/eformprocessingservice
+    build:
+      context: .
+      dockerfile: eFormProcessingService/Dockerfile
+

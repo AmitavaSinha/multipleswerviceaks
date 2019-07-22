@@ -1,0 +1,81 @@
+{
+  "GlobalConfiguration": {
+    "BaseUrl": "http://localhost:6348"
+  },
+  "ReRoutes": [
+    // eFormProcessing Service Route
+    {
+      "DownstreamPathTemplate": "/api/eForm/GetDocumentType",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 2946
+        }
+      ],
+      "UpstreamPathTemplate": "/api/eForm/GetDocumentType",
+      "UpstreamHttpMethod": [ "Get" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/eForm/GetIdentityType",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 2946
+        }
+      ],
+      "UpstreamPathTemplate": "/api/eForm/GetIdentityType",
+      "UpstreamHttpMethod": [ "Get" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/eForm/GetPostalCode",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 2946
+        }
+      ],
+      "UpstreamPathTemplate": "/api/eForm/GetPostalCode",
+      "UpstreamHttpMethod": [ "Get" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/eForm/GetPropertyType",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 2946
+        }
+      ],
+      "UpstreamPathTemplate": "/api/eForm/GetPropertyType",
+      "UpstreamHttpMethod": [ "Get" ]
+    },
+    // Login Service Route
+    {
+      "DownstreamPathTemplate": "/api/login/IsValidUser",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 6001
+        }
+      ],
+      "UpstreamPathTemplate": "/api/login/IsValidUser",
+      "UpstreamHttpMethod": [ "Get" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/login/GetUserDetails",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 6001
+        }
+      ],
+      "UpstreamPathTemplate": "/api/login/GetUserDetails",
+      "UpstreamHttpMethod": [ "Get" ]
+    }
+  ]
+}

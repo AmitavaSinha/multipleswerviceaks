@@ -1,0 +1,17 @@
+C:\Users\smriti-s\Source\Repos\IRAS2\IRASMicroServices\eFormProcessingService\bin\Release\netcoreapp2.2\appsettings.Development.json
+C:\Users\smriti-s\Source\Repos\IRAS2\IRASMicroServices\eFormProcessingService\bin\Release\netcoreapp2.2\appsettings.json
+C:\Users\smriti-s\Source\Repos\IRAS2\IRASMicroServices\eFormProcessingService\bin\Release\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\smriti-s\Source\Repos\IRAS2\IRASMicroServices\eFormProcessingService\bin\Release\netcoreapp2.2\eFormProcessingService.deps.json
+C:\Users\smriti-s\Source\Repos\IRAS2\IRASMicroServices\eFormProcessingService\bin\Release\netcoreapp2.2\eFormProcessingService.runtimeconfig.json
+C:\Users\smriti-s\Source\Repos\IRAS2\IRASMicroServices\eFormProcessingService\bin\Release\netcoreapp2.2\eFormProcessingService.runtimeconfig.dev.json
+C:\Users\smriti-s\Source\Repos\IRAS2\IRASMicroServices\eFormProcessingService\bin\Release\netcoreapp2.2\eFormProcessingService.dll
+C:\Users\smriti-s\Source\Repos\IRAS2\IRASMicroServices\eFormProcessingService\bin\Release\netcoreapp2.2\eFormProcessingService.pdb
+C:\Users\smriti-s\Source\Repos\IRAS2\IRASMicroServices\eFormProcessingService\obj\Release\netcoreapp2.2\eFormProcessingService.csprojAssemblyReference.cache
+C:\Users\smriti-s\Source\Repos\IRAS2\IRASMicroServices\eFormProcessingService\obj\Release\netcoreapp2.2\eFormProcessingService.csproj.CoreCompileInputs.cache
+C:\Users\smriti-s\Source\Repos\IRAS2\IRASMicroServices\eFormProcessingService\obj\Release\netcoreapp2.2\eFormProcessingService.RazorAssemblyInfo.cache
+C:\Users\smriti-s\Source\Repos\IRAS2\IRASMicroServices\eFormProcessingService\obj\Release\netcoreapp2.2\eFormProcessingService.RazorAssemblyInfo.cs
+C:\Users\smriti-s\Source\Repos\IRAS2\IRASMicroServices\eFormProcessingService\obj\Release\netcoreapp2.2\eFormProcessingService.AssemblyInfoInputs.cache
+C:\Users\smriti-s\Source\Repos\IRAS2\IRASMicroServices\eFormProcessingService\obj\Release\netcoreapp2.2\eFormProcessingService.AssemblyInfo.cs
+C:\Users\smriti-s\Source\Repos\IRAS2\IRASMicroServices\eFormProcessingService\obj\Release\netcoreapp2.2\eFormProcessingService.RazorTargetAssemblyInfo.cache
+C:\Users\smriti-s\Source\Repos\IRAS2\IRASMicroServices\eFormProcessingService\obj\Release\netcoreapp2.2\eFormProcessingService.dll
+C:\Users\smriti-s\Source\Repos\IRAS2\IRASMicroServices\eFormProcessingService\obj\Release\netcoreapp2.2\eFormProcessingService.pdb
